@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x23E6343Ea4B60Bf41d369E92431c66a628baCEA2",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x23e6343ea4b60bf41d369e92431c66a628bacea2",
+  "NETWORK": {
+    "NAME": "Mumbai Matic",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Rich Rabbits",
+  "SYMBOL": "RRNFT",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 140000000000000000,
+  "DISPLAY_COST": 0.14,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/rich-rabbits-nfts-v2",
+  "SHOW_BACKGROUND": true
+}
